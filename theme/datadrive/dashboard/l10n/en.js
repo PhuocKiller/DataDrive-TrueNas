@@ -1,0 +1,6 @@
+OC.L10N.register(
+    "dashboard",
+    {
+    "Start your day informed\n\nThe Nextcloud Dashboard is your starting point of the day, giving you an overview of your upcoming appointments, urgent emails, chat messages, incoming tickets, latest tweets and much more! People can add the widgets they like and change the background to their liking.": "Start your day informed\n\nThe datadrive.vn Dashboard is your starting point of the day, giving you an overview of your upcoming appointments, urgent emails, chat messages, incoming tickets, latest tweets and much more! People can add the widgets they like and change the background to their liking."
+},
+"nplurals=2; plural=(n != 1);");

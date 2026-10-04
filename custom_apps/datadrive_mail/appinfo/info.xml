@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<info xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="https://apps.nextcloud.com/schema/apps/info.xsd">
+	<id>datadrive_mail</id>
+	<name>datadrive.vn email template</name>
+	<summary>Email header with a light background and a larger datadrive.vn logo</summary>
+	<description>Provides OCA\DatadriveMail\EMailTemplate for the mail_template_class system config.</description>
+	<version>1.0.0</version>
+	<licence>agpl</licence>
+	<author>datadrive.vn</author>
+	<namespace>DatadriveMail</namespace>
+	<category>customization</category>
+	<dependencies>
+		<nextcloud min-version="34" max-version="34"/>
+	</dependencies>
+</info>

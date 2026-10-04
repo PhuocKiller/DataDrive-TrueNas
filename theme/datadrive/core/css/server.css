@@ -1,0 +1,16 @@
+/*
+ * Theme datadrive.vn - CSS bo sung, nap sau CSS goc cua core (themes/datadrive/core/css/server.css).
+ * Mau sac, logo, anh nen do app theming quan ly (occ theming:config) - khong dat o day.
+ */
+
+/* Personal Settings: khoi "Developed by the community", icon mang xa hoi va nut "Reasons to use"
+   deu tro ve trang Nextcloud - file ngon ngu khong xu ly duoc nen an di. */
+/* KHONG dung #nextcloud: do la link logo tren header. */
+.settings-content .section.development-notice {
+	display: none !important;
+}
+
+/* Administration > Overview: dong "Nextcloud Hub 26 Spring (34.0.3)" viet cung trong version.php cua core. */
+.settings-content #version.section {
+	display: none !important;
+}

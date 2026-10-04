@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<info xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="https://apps.nextcloud.com/schema/apps/info.xsd">
+	<id>datadrive_sso</id>
+	<name>datadrive.vn SSO</name>
+	<summary>Nhận mã đăng nhập một lần từ datadrive.vn</summary>
+	<description>Cho phép khách đã đăng nhập ở datadrive.vn vào thẳng kho lưu trữ: WordPress ký một mã dùng một lần (HMAC-SHA256), app này kiểm tra mã, dọn cookie cũ rồi đăng nhập người dùng.</description>
+	<version>1.0.0</version>
+	<licence>agpl</licence>
+	<author>datadrive.vn</author>
+	<namespace>DatadriveSso</namespace>
+	<category>security</category>
+	<dependencies>
+		<nextcloud min-version="34" max-version="34"/>
+	</dependencies>
+</info>

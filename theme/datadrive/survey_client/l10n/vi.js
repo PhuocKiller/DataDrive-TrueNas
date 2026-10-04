@@ -1,0 +1,10 @@
+OC.L10N.register(
+    "survey_client",
+    {
+    "Do you want to help us to improve Nextcloud by providing some anonymized data about your setup and usage? You can disable it at any time in the admin settings again.": "Do you want to help us to improve datadrive.vn by providing some anonymized data about your setup and usage? You can disable it at any time in the admin settings again.",
+    "Help improve Nextcloud": "Help improve datadrive.vn",
+    "Sends anonymized data to Nextcloud to help us to improve Nextcloud.": "Sends anonymized data to datadrive.vn to help us to improve datadrive.vn.",
+    "Sends anonymized data to Nextcloud to help us to improve Nextcloud. You\n\t\talways have full control over the content sent to Nextcloud and can disable\n\t\tit again at any time.": "Sends anonymized data to datadrive.vn to help us to improve datadrive.vn. You\n\t\talways have full control over the content sent to datadrive.vn and can disable\n\t\tit again at any time.",
+    "You can help improve Nextcloud by sending us some data about your current setup and usage.": "You can help improve datadrive.vn by sending us some data about your current setup and usage."
+},
+"nplurals=1; plural=0;");

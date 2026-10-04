@@ -1,0 +1,46 @@
+OC.L10N.register(
+    "notifications",
+    {
+    "1 day": "1 ngày",
+    "1 hour": "1 tiếng",
+    "1 week": "1 tuần",
+    "3 hours": "3 tiếng",
+    "Admin notifications": "Thông báo quản trị",
+    "An error occurred while updating your settings.": "Đã xảy ra lỗi khi cập nhật cài đặt của bạn.",
+    "Contact Nextcloud GmbH": "Liên hệ với GmbH",
+    "Dismiss": "Bỏ qua",
+    "Dismiss all notifications": "Bỏ qua tất cả thông báo",
+    "Failed to dismiss all notifications": "Bỏ qua thông báo thất bại",
+    "Failed to dismiss notification": "Lỗi bỏ qua thông báo",
+    "Failed to perform action": "Thực thi hành động thất bại",
+    "Hello %s": "Xin chào %s",
+    "Hello %s,": "Xin chào %s,",
+    "Never": "Không bao giờ",
+    "Nextcloud GmbH sponsors a free push notification gateway for private users. To ensure good service, the gateway limits the number of push notifications per server and the limit was reached for this server. For enterprise users, a more scalable gateway is available.": "the provider sponsors a free push notification gateway for private users. To ensure good service, the gateway limits the number of push notifications per server and the limit was reached for this server. For enterprise users, a more scalable gateway is available.",
+    "Nextcloud GmbH sponsors a free push notification gateway for private users. To ensure good service, the gateway limits the number of push notifications per server. For enterprise users, a more scalable gateway is available. Contact Nextcloud GmbH for more information.": "nhà cung cấp tài trợ một cổng thông báo đẩy miễn phí cho người dùng cá nhân. Để đảm bảo dịch vụ tốt, cổng giới hạn số lượng thông báo đẩy trên mỗi máy chủ. Đối với người dùng doanh nghiệp, có sẵn một cổng có khả năng mở rộng hơn. Liên hệ nhà cung cấp để biết thêm thông tin.",
+    "No notifications": "Không thông báo ",
+    "None": "Không có",
+    "Notifications": "Thông báo",
+    "Notifications defaults": "Thông báo mặc định",
+    "Play sound when a call started (requires Nextcloud Talk)": "Phát âm thanh khi cuộc gọi bắt đầu (yêu cầu Talk)",
+    "Play sound when a new notification arrives": "Phát âm thanh khi có thông báo mới",
+    "Push notifications might be unreliable": "Thông báo đẩy có thể không đáng tin cậy",
+    "Requesting browser permissions to show notifications": "Đang gửi yêu cầu tới trình duyệt để cấp phép hiển thị thông báo ",
+    "Send email reminders about unhandled notifications after:": "Gửi lời nhắc qua email về các thông báo chưa được xử lý sau:",
+    "This app provides a backend and frontend for the notification API available in Nextcloud.": "Ứng dụng này cung cấp kết nối giữa dữ liệu nền / backend / và lớp tương tác / frontend /  với API hiển thị thông báo trên datadrive.vn",
+    "This app provides a backend and frontend for the notification API available in Nextcloud.\n\t\tThe API is used by other apps to notify users in the web UI and sync clients about various things. Some examples are:\n\n📬 Federated file sharing: You received a new remote share\n\n📑 Comments: Another user mentioned you in a comment on a file\n\n🚢 Update notification: Available update for an app or nextcloud itself\n\n📣 Announcement center: An announcement was posted by an admin": "Ứng dụng này cung cấp kết nối giữa dữ liệu nền / backend / và lớp tương tác / frontend / với API hiển thị thông báo trên datadrive.vn. \n\t\t API được sử dụng bởi các ứng dụng khác để hiển thị thông báo tới người dùng trong giao diện web và ở các điểm đồng bộ. Một vài ví dụ như : \n\n📬Chia sẻ tệp tin liên bang: bạn nhận được một chia sẻ từ xa \n\n📑Bình luận: Một người dùng đã nhắc tới bạn trong một bình luận về một tệp tin chia sẻ\n\n🚢Thông báo cập nhập: Có một cập nhập khả dụng cho datadrive.vn hoặc cho một ứng dụng\n\n📣Trung tâm thông báo: Một thông báo đã được đăng lên bởi một quản trị viên",
+    "User not found": "Không tìm thấy người dùng",
+    "We want to keep offering our push notification service for free, but large number of users overload our infrastructure. For this reason we have to rate-limit the use of push notifications. If you need this feature, consider using Nextcloud Enterprise.": "We want to keep offering our push notification service for free, but large number of users overload our infrastructure. For this reason we have to rate-limit the use of push notifications. If you need this feature, consider using Enterprise.",
+    "You can change the frequency of these emails or disable them in the <a href=\"%s\">settings</a>.": "Bạn có thể điều chỉnh tần suất gửi hoặc vô hiệu hóa các email này trong <a href=\"%s\">cài đặt</a>.",
+    "You can change the frequency of these emails or disable them in the settings: %s": "Bạn có thể thay đổi tần suất nhận những email này hoặc tắt chúng trong cài đặt: %s",
+    "You need to set up your email address before you can receive notification emails.": "Bạn cần phải thiết lập địa chỉ email trước khi nhận được email thông báo.",
+    "Your settings have been updated.": "Các thiết lập của bạn vừa được cập nhật",
+    "_New notification for %s_::_%n new notifications for %s_": [
+        "%n thông báo mới cho %s"
+    ],
+    "_You have a new notification for %s_::_You have %n new notifications for %s_": [
+        "Bạn có %n thông báo mới cho %s"
+    ],
+    "in {path}": "trong {path}"
+},
+"nplurals=1; plural=0;");

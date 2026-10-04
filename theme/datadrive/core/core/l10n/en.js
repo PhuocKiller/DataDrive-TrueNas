@@ -1,0 +1,13 @@
+OC.L10N.register(
+    "core",
+    {
+    "Enter your subscription key in the support app in order to increase the account limit. This does also grant you all additional benefits that Nextcloud Enterprise offers and is highly recommended for the operation in companies.": "Enter your subscription key in the support app in order to increase the account limit. This does also grant you all additional benefits that Enterprise offers and is highly recommended for the operation in companies.",
+    "Failed to add the public link to your Nextcloud": "Failed to add the public link to your datadrive.vn",
+    "It looks like you are trying to reinstall your Nextcloud. However the file CAN_INSTALL is missing from your config directory. Please create the file CAN_INSTALL in your config folder to continue.": "It looks like you are trying to reinstall your datadrive.vn. However the file CAN_INSTALL is missing from your config directory. Please create the file CAN_INSTALL in your config folder to continue.",
+    "Nextcloud Server": "datadrive.vn Server",
+    "The Nextcloud login form is disabled. Use another login option if available or contact your administration.": "The datadrive.vn login form is disabled. Use another login option if available or contact your administration.",
+    "The update was unsuccessful. Please report this issue to the <a href=\"https://github.com/nextcloud/server/issues\" target=\"_blank\">Nextcloud community</a>.": "The update was unsuccessful. Please report this issue to the <a href=\"https://github.com/nextcloud/server/issues\" target=\"_blank\">community</a>.",
+    "This community release of Nextcloud is unsupported and push notifications are limited.": "This community release of datadrive.vn is unsupported and push notifications are limited.",
+    "user@your-nextcloud.org": "user@datadrive.vn"
+},
+"nplurals=2; plural=(n != 1);");

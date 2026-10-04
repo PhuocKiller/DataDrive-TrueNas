@@ -1,0 +1,12 @@
+{
+    "pluralForm": "nplurals=1; plural=0;",
+    "translations": {
+        "Choose from Nextcloud Files": "Choose from datadrive.vn Files",
+        "Create your own teams for sharing. Add Nextcloud users, contacts, or anyone via email.": "Create your own teams for sharing. Add datadrive.vn users, contacts, or anyone via email.",
+        "Nextcloud Account": "Tài khoản datadrive.vn",
+        "Nextcloud App": "Ứng dụng datadrive.vn",
+        "Nextcloud Group": "Nhóm datadrive.vn",
+        "Nextcloud Initialization": "Khởi tạo datadrive.vn",
+        "Your teams and everything shared with them across Nextcloud.": "Your teams and everything shared with them across datadrive.vn."
+    }
+}

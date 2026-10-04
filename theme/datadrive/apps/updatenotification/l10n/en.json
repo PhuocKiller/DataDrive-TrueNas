@@ -1,0 +1,7 @@
+{
+    "pluralForm": "nplurals=2; plural=(n != 1);",
+    "translations": {
+        "Displays update notifications for Nextcloud, app updates, and provides the SSO for the updater.": "Displays update notifications for datadrive.vn, app updates, and provides the SSO for the updater.",
+        "Please check the Nextcloud and server log files for errors.": "Please check the datadrive.vn and server log files for errors."
+    }
+}

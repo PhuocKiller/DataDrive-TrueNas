@@ -1,0 +1,11 @@
+{
+    "pluralForm": "nplurals=1; plural=0;",
+    "translations": {
+        "Enter your subscription key in the support app in order to increase the account limit. This does also grant you all additional benefits that Nextcloud Enterprise offers and is highly recommended for the operation in companies.": "Hãy nhập khóa đăng ký của bạn vào ứng dụng \"Support\" để tăng giới hạn tài khoản. Việc này cũng sẽ cung cấp cho bạn những đặc quyền do Enterprise cung cấp.",
+        "It looks like you are trying to reinstall your Nextcloud. However the file CAN_INSTALL is missing from your config directory. Please create the file CAN_INSTALL in your config folder to continue.": "Có vẻ như bạn đang cố gắng cài đặt lại datadrive.vn của mình. Tuy nhiên, CAN_INSTALL tệp bị thiếu trong thư mục cấu hình của bạn. Vui lòng tạo tệp CAN_INSTALL trong thư mục cấu hình của bạn để tiếp tục.",
+        "Nextcloud Server": "Máy chủ datadrive.vn",
+        "The update was unsuccessful. Please report this issue to the <a href=\"https://github.com/nextcloud/server/issues\" target=\"_blank\">Nextcloud community</a>.": "Quá trình cập nhật không thành công. Xin vui lòng báo lại vấn đề gặp phải trong tới  <a href=\"https://github.com/nextcloud/server/issues\" target=\"_blank\">cộng đồng</a>.",
+        "This community release of Nextcloud is unsupported and push notifications are limited.": "Bản phát hành cộng đồng này của datadrive.vn không được hỗ trợ và thông báo đẩy bị hạn chế.",
+        "user@your-nextcloud.org": "nguoidung@datadrive.vn"
+    }
+}

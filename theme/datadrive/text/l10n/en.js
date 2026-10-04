@@ -1,0 +1,9 @@
+OC.L10N.register(
+    "text",
+    {
+    "** 📝 Collaborative document editing!**\n\n- **📝 Focused writing:** No distractions, only the formatting you need.\n- **🙋 Work together:** Share and collaborate with friends and colleagues, no matter if they use Nextcloud or not!\n- **💾 Open format:** Files are saved as [Markdown](https://en.wikipedia.org/wiki/Markdown), so you can edit them from any other text app too.\n- **✊ Strong foundation:** We use [🐈 tiptap](https://tiptap.scrumpy.io) which is based on [🦉 ProseMirror](https://prosemirror.net) – huge thanks to them!": "** 📝 Collaborative document editing!**\n\n- **📝 Focused writing:** No distractions, only the formatting you need.\n- **🙋 Work together:** Share and collaborate with friends and colleagues, no matter if they use datadrive.vn or not!\n- **💾 Open format:** Files are saved as [Markdown](https://en.wikipedia.org/wiki/Markdown), so you can edit them from any other text app too.\n- **✊ Strong foundation:** We use [🐈 tiptap](https://tiptap.scrumpy.io) which is based on [🦉 ProseMirror](https://prosemirror.net) – huge thanks to them!",
+    "Nextcloud Assistant": "Assistant",
+    "Nextcloud Assistant result copied": "Assistant result copied",
+    "Nextcloud Text": "Text"
+},
+"nplurals=2; plural=(n != 1);");

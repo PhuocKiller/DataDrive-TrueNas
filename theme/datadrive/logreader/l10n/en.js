@@ -1,0 +1,8 @@
+OC.L10N.register(
+    "logreader",
+    {
+    "A log reader for Nextcloud": "A log reader for datadrive.vn",
+    "If you feel this is an error, please verify {setting} in your {config} and check the Nextcloud Administration Manual.": "If you feel this is an error, please verify {setting} in your {config} and check the datadrive.vn Administration Manual.",
+    "Log reader for Nextcloud": "Log reader for datadrive.vn"
+},
+"nplurals=2; plural=(n != 1);");

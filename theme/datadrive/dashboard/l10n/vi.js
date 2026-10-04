@@ -1,0 +1,25 @@
+OC.L10N.register(
+    "dashboard",
+    {
+    "Customize": "Tuỳ chỉnh",
+    "Dashboard": "Tổng quan",
+    "Dashboard app": "Ứng dụng Tổng quan",
+    "Edit widgets": "Chỉnh sửa widget",
+    "Get more widgets from the App Store": "Tải thêm widget từ App Store",
+    "Good afternoon": "Chào buổi chiều",
+    "Good afternoon, {name}": "Chào buổi chiều, {name}",
+    "Good evening": "Chào buổi tối",
+    "Good evening, {name}": "Chào buổi tối, {name}",
+    "Good morning": "Chào buổi sáng",
+    "Good morning, {name}": "Chào buổi sáng, {name}",
+    "Hello": "Xin chào",
+    "Hello, {name}": "Xin chào, {name}",
+    "Start your day informed\n\nThe Nextcloud Dashboard is your starting point of the day, giving you an overview of your upcoming appointments, urgent emails, chat messages, incoming tickets, latest tweets and much more! People can add the widgets they like and change the background to their liking.": "Start your day informed\n\nThe datadrive.vn Dashboard is your starting point of the day, giving you an overview of your upcoming appointments, urgent emails, chat messages, incoming tickets, latest tweets and much more! People can add the widgets they like and change the background to their liking.",
+    "Status": "Trạng thái",
+    "Weather": "Thời tiết",
+    "Weather data from Met.no": "Dữ liệu thời tiết từ Met.no",
+    "Weather service": "Dịch vụ thời tiết",
+    "elevation data from OpenTopoData": "dữ liệu độ cao từ OpenTopoData",
+    "geocoding with Nominatim": "mã hóa địa lý với Nominatim"
+},
+"nplurals=1; plural=0;");
